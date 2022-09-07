@@ -20,7 +20,7 @@ void ReverseArray(int[] inArray)
         inArray[inArray.Length-1-i] = k;
     }
 }
-int[]array = GetArray(10,0,10);
+int[]array = GetArray(10,1,10);
 Console.WriteLine(String.Join(" ",array));
 
 ReverseArray(array);

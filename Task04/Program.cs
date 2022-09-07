@@ -5,7 +5,7 @@
 
 Console.WriteLine("Введите число: ");
 int num = Convert.ToInt32(Console.ReadLine());
-
+Fi
 int firstNum = 0;
 int secondNum = 1;
 Console.Write(firstNum + " ");
